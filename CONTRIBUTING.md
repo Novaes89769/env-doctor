@@ -18,3 +18,4 @@ Notes and usage details for env-doctor.
 - clarify the setup steps
 - fix a small wording issue
 - add a note about the defaults
+- fix a small wording issue
