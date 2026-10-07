@@ -31,3 +31,4 @@ Notes and usage details for env-doctor.
 - clarify the setup steps
 - clarify the setup steps
 - clarify the setup steps
+- fix a small wording issue
